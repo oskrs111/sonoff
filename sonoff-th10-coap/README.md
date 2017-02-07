@@ -9,6 +9,7 @@
   and PATH settings and modify to match your Expressif SDK locations.
 						
 Original source: http://www.lobaro.com/lobaro-coap-on-esp8266
+
 Original instructions:
 * Unofficial Development Kit for Espressif ESP8266: https://github.com/CHERTS/esp8266-devkit
 * ESP8266_NONOS_SDK_V1.5.0_15_11_27: http://bbs.espressif.com/viewtopic.php?f=46&t=1442
