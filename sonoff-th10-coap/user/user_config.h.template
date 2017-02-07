@@ -1,0 +1,10 @@
+#ifndef _USER_CONFIG_H_
+#define _USER_CONFIG_H_
+//OSLL: These macros are enabled by setting USE_HARDCODED_CREDENTIALS to (1)
+//		in user/lobaro-coap/interface/esp8266/lobaro-coap_esp8266.h
+#define EXTERNAL_AP_SSID "YOUR_WIFI_SSID"
+#define EXTERNAL_AP_PW "YOUR_WIFI_PASSWORD"
+#define EXTERNAL_AP_STATIC_IP "192.168.1.10"
+#define EXTERNAL_AP_STATIC_GW "192.168.1.1"
+#define EXTERNAL_AP_STATIC_NETMASK "255.255.255.0"
+#endif
